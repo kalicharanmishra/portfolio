@@ -1,0 +1,84 @@
+⭐ Professional Project Descriptions for Portfolio
+🚀 Questly – Social Media App
+
+Questly is a social-media-based application built with Flutter, supported by Laravel APIs and a React Admin Panel.
+I developed all backend APIs in Laravel and created the complete React-based admin dashboard for managing users, posts, and analytics.
+🔗 Admin Panel: http://23.88.102.127:3001
+
+🌦️ Wiles Valley Weather – Weather Alert App
+
+Wiles Valley Weather is an alert-notification mobile app built using Flutter, powered by Laravel APIs and a Laravel Admin Panel.
+I built all alert, notification, and weather-based REST APIs and developed the admin dashboard to manage alerts and configurations.
+🔗 Admin Panel: https://wvwapp.com/admin
+
+🐾 Pet Care – Pet Products App
+
+Pet Care is an e-commerce-style app for pet products, built using Flutter, with Laravel APIs and a React Admin Panel.
+I created the complete Laravel backend API system and the React admin dashboard for product, order, and user management.
+🔗 Admin Panel: https://nozama.africa/pet-care/admin/
+
+📚 Flibooks – Historical Event Flipbook App
+
+Flibooks is a digital book application based on historical events. The mobile app is developed in React Native, and the backend is in Laravel.
+I created Laravel APIs and a full Laravel-based admin system to manage book content and events.
+🔗 Admin Panel: https://ibooks.ezxdemo.com/admin/login
+
+🎉 Hira – Social Event App
+
+Hira is a social, real-time event application built using Flutter, with Laravel for the backend.
+I developed real-time APIs and the Laravel admin panel for event creation, user management, and notifications.
+🔗 App Store: https://apps.apple.com/in/app/hira/id6497231089
+
+🔗 Admin Panel: https://hira.ezxdemo.com/admin
+
+🔮 Jyotishee – Astrology Website (Node.js)
+
+Jyotishee is an astrology product-based platform built using Node.js.
+I contributed to backend API development and optimization.
+🔗 Website: https://jyotishee.com/
+
+🛕 Om Shivshankar Tirth Yatra – Tourism Website (Node.js)
+
+A tourism booking and information website built in Node.js.
+I helped develop backend logic and modules for tour listing and user management.
+🔗 Website: https://www.omshivshankartirthyatra.com/
+
+🎮 Probattle – Gaming (Ludo) Platform (Node.js)
+
+Probattle is a Ludo-based online gaming platform built on Node.js.
+I worked on backend features, gameplay logic APIs, and user session management.
+🔗 Website: https://probattle.in/
+
+💊 Tele Medicine (Zamzam Beauty) – Medical Test App
+
+A tele-medicine application built using Flutter and Laravel APIs, with a Laravel Admin Panel.
+I developed all APIs for medical tests, bookings, user profiles, and built the admin panel for test management.
+🔗 Website: https://zamzam-beauty.com/
+
+🔗 Admin Panel: https://zamzam-beauty.com/admin/login
+
+📦 Emizen Matrix Shipping Rates – Shopify Shipping App
+
+A Shopify App that calculates real-time shipping rates based on destination, weight, and item quantity.
+I built the complete Laravel backend for shipping calculation, Shopify integration, and webhook handling.
+
+🚚 The Courier Guy (SovTech) – Shopify Shipping App
+
+A Laravel-managed Shopify shipping solution.
+I worked on creating and managing Shopify metafields, webhooks, shipping labels, rate calculation APIs, and Swagger API documentation.
+
+🛒 Proship by Prozo – Shopify Order Management App
+
+A Shopify order management app powered by Laravel.
+I developed modules to sync orders with third-party systems and automate order processing.
+
+💸 Remittance App – Payment Gateway Application
+
+A UPI-based payment gateway mobile app built using React Native with Laravel backend.
+I created complete Laravel APIs, including user onboarding, payments, settlements, and admin panel modules.
+
+🛡️ Secure Global – Gaming App (Flutter + Laravel)
+
+Secure Global is a gaming platform built in Flutter, with Laravel for APIs and admin.
+I developed APIs for gameplay, authentication, wallet, and managed the admin panel.
+🔗 Admin Panel: https://globalsecure.ezxdemo.com/admin/login
